@@ -1,0 +1,2 @@
+<a href="http://www.lessthanweb.com/products/conversion-popup-survey" target="_blank">Support</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=83NJTM8F9C5WQ" target="_blank">Donate</a>
